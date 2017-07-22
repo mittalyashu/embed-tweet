@@ -1,0 +1,83 @@
+* {
+  font-family: nunito, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #2C2C46
+}
+
+.tweet-row-1 {
+
+}
+
+.tweet-row-2 {
+  /*position: relative;*/
+  /*left: 100px;*/
+  justify-content: center;
+  padding: 30px
+}
+
+.tweet-link {
+  list-style: none;
+  width: 20vw;
+  min-width: 250px;
+  max-width: 400px;
+  margin: 10px;
+  border: 1px solid #E6EAEB;
+  border-radius: 6px;
+  box-shadow: 0 0 0px rgba(0,0,0,.2);
+  transition: all 200ms ease;
+}
+
+.tweet-link:hover {
+  border: 1px solid white;
+  border-radius: 6px;
+  box-shadow: 0 0 30px rgba(0,0,0,.2);
+  -ms-transform: scale(1.02);
+      transform: scale(1.02);
+  transition: all 200ms ease;
+}
+
+.tweet-link a {
+  text-decoration: none;
+}
+
+.tweet-card {
+  padding: 20px;
+}
+
+.tweet-card-info {
+  justify-content: flex-start;
+  padding-bottom: 20px;
+  display: flex;
+}
+
+.tweet-card-info img {
+  width: 45px;
+  height: 45px;
+  border-radius: 6px;
+}
+
+.tweet-card-info-link {
+  padding-left: 20px;
+}
+
+.tweet-card-info-link h6 {
+  font-weight: 700;
+  font-size: 16px
+}
+
+.tweet-card-info-link p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.tweet-card-content {
+  padding-top: 10px
+}
+
+.tweet-card-content {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
