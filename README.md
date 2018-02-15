@@ -6,7 +6,7 @@ Here is the live view of the [tweet](https://mittalyashu.github.io/embed-tweet/)
 
 Contributions are welcomes to this repo.
 
-## Help me! To continue manange this project
+## Help me! To continue manage this project
 
 I've put a lot of time and effort into making **Embed Tweet** project. If you love it, you can buy me a coffee. It will help me to continue maintaining this project 😉.
 
